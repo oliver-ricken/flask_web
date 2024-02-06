@@ -2,7 +2,7 @@
 Creating a simple web app in Flask, and deploying it with Docker.
 <br>
 <br>
-We need the following files:
+In order to dockerize our Flask application, we need the following files:
 
 `app.py`: Python file that creates a basic web application using Flask
 
